@@ -49,6 +49,8 @@ Broadly speaking, the process to train and use a new biLM is:
 
 
 #### 1.  Prepare input data and a vocabulary file.
+
+Detailed Instructions Available Here: <a> https://appliedmachinelearning.blog/2019/11/30/training-elmo-from-scratch-on-custom-data-set-for-generating-embeddings-tensorflow/ </a>
 To train and evaluate a biLM, you need to provide:
 
 * a vocabulary file
